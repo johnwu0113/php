@@ -1,3 +1,5 @@
+# A PHP Code for PUT method(no submission)
+
 ## Information
 
 Server version: Apache/2.4.6 (Red Hat Enterprise Linux)
