@@ -20,7 +20,7 @@ Server built:   Mar 24 2022 14:57:57
 
 ---
 
-## Delpoyment
+## Description
 
 1. Copy the index.php into the web directory.
 
