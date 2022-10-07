@@ -1,4 +1,4 @@
-# A PHP Code for PUT method(no submission)
+# A PHP Code for PUT method without submission
 
 ## Information
 
