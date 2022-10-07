@@ -31,20 +31,12 @@ Server built:   Mar 24 2022 14:57:57
 
 1
 
-[web-client]# curl -x --data-binary @"./text" http://172.27.1.226/upload/index.php
+[web-client]# curl -x --data-binary @"./text" http://[web-server]/upload/index.php
 
-
-[web-server]#
-
-index.php  upload
 
 [web-server]# ls upload/
 
-172.27.1.121-1665100786.txt
-
-[web-server]# cat upload/172.27.1.121-1665100786.txt
-
-1
+[web-client]-[timestamp].txt
 
 ![](https://i.imgur.com/HnXpmx8.png)
                                                                     
