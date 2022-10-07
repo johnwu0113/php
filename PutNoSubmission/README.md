@@ -20,14 +20,14 @@ Server built:   Mar 24 2022 14:57:57
 
 ---
 
-## Description
+## Deployment
 
 1. Copy the index.php into the web directory.
 
 2. Create a folder to write uploaded files (notes folder permission).
 
 ---
-## Demonstration
+## Description
 
 [web-client]# cat text
 
